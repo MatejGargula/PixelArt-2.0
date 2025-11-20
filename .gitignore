@@ -98,3 +98,4 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 /PixelArt-2.0/Library
+/PixelArt-2.0/Temp

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: b34e5948576bec04687a8469534c6d30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -306113489729398854
+    second: Garry the giant_No%Outline-Sheet_0
+  - first:
+      213: 7911505960494377030
+    second: Garry the giant_No%Outline-Sheet_1
+  - first:
+      213: -5073654791011195131
+    second: Garry the giant_No%Outline-Sheet_2
+  - first:
+      213: -5061572344051119233
+    second: Garry the giant_No%Outline-Sheet_3
+  - first:
+      213: 4824143744187733341
+    second: Garry the giant_No%Outline-Sheet_4
+  - first:
+      213: -4314049981623121679
+    second: Garry the giant_No%Outline-Sheet_5
+  - first:
+      213: -885278122659740576
+    second: Garry the giant_No%Outline-Sheet_6
+  - first:
+      213: 8220167535260979542
+    second: Garry the giant_No%Outline-Sheet_7
+  - first:
+      213: -4886348468829027222
+    second: Garry the giant_No%Outline-Sheet_8
+  - first:
+      213: 877200056895453760
+    second: Garry the giant_No%Outline-Sheet_9
+  - first:
+      213: 9220581325445250794
+    second: Garry the giant_No%Outline-Sheet_10
+  - first:
+      213: -6029321410207088248
+    second: Garry the giant_No%Outline-Sheet_11
+  - first:
+      213: -4863269053195910464
+    second: Garry the giant_No%Outline-Sheet_12
+  - first:
+      213: -2619740805808008329
+    second: Garry the giant_No%Outline-Sheet_13
+  - first:
+      213: 2804841955694300154
+    second: Garry the giant_No%Outline-Sheet_14
+  - first:
+      213: 3529834172544561514
+    second: Garry the giant_No%Outline-Sheet_15
+  - first:
+      213: -8458630887287778436
+    second: Garry the giant_No%Outline-Sheet_16
+  - first:
+      213: -3834074295383287304
+    second: Garry the giant_No%Outline-Sheet_17
+  - first:
+      213: 7056919412147420722
+    second: Garry the giant_No%Outline-Sheet_18
+  - first:
+      213: -8068051469007444586
+    second: Garry the giant_No%Outline-Sheet_19
+  - first:
+      213: 4037712424744899599
+    second: Garry the giant_No%Outline-Sheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 321
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab759b7276770cbf0800000000000000
+      internalID: -306113489729398854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 321
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64827ad01c05bcd60800000000000000
+      internalID: 7911505960494377030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 322
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507a1d459d1c699b0800000000000000
+      internalID: -5073654791011195131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 322
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b44eb35cea1c9b0800000000000000
+      internalID: -5061572344051119233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 322
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d559bb90d2dc2f240800000000000000
+      internalID: 4824143744187733341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 242
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8c216066a6124c0800000000000000
+      internalID: -4314049981623121679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 242
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0640173ec3cd6b3f0800000000000000
+      internalID: -885278122659740576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 242
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651dd6d22d6e31270800000000000000
+      internalID: 8220167535260979542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 242
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a640ca2e4f3303cb0800000000000000
+      internalID: -4886348468829027222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 242
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ab43cddc07c2c00800000000000000
+      internalID: 877200056895453760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 162
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeb3cddcd516ff70800000000000000
+      internalID: 9220581325445250794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 162
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88103f34f1c835ca0800000000000000
+      internalID: -6029321410207088248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 162
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c28b151092328cb0800000000000000
+      internalID: -4863269053195910464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 162
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773d73afd9fc4abd0800000000000000
+      internalID: -2619740805808008329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 162
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb4544e5eccce620800000000000000
+      internalID: 2804841955694300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 82
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61bd826a7d7cf030800000000000000
+      internalID: 3529834172544561514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 82
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7390151608ec9a80800000000000000
+      internalID: -8458630887287778436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 80
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9193dfdb1aacac0800000000000000
+      internalID: -3834074295383287304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 80
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23efa91f0d63fe160800000000000000
+      internalID: 7056919412147420722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 80
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6952e307fe5880090800000000000000
+      internalID: -8068051469007444586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garry the giant_No%Outline-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04d91ebe06d80830800000000000000
+      internalID: 4037712424744899599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Garry the giant_No%Outline-Sheet_0: -306113489729398854
+      Garry the giant_No%Outline-Sheet_1: 7911505960494377030
+      Garry the giant_No%Outline-Sheet_10: 9220581325445250794
+      Garry the giant_No%Outline-Sheet_11: -6029321410207088248
+      Garry the giant_No%Outline-Sheet_12: -4863269053195910464
+      Garry the giant_No%Outline-Sheet_13: -2619740805808008329
+      Garry the giant_No%Outline-Sheet_14: 2804841955694300154
+      Garry the giant_No%Outline-Sheet_15: 3529834172544561514
+      Garry the giant_No%Outline-Sheet_16: -8458630887287778436
+      Garry the giant_No%Outline-Sheet_17: -3834074295383287304
+      Garry the giant_No%Outline-Sheet_18: 7056919412147420722
+      Garry the giant_No%Outline-Sheet_19: -8068051469007444586
+      Garry the giant_No%Outline-Sheet_2: -5073654791011195131
+      Garry the giant_No%Outline-Sheet_20: 4037712424744899599
+      Garry the giant_No%Outline-Sheet_3: -5061572344051119233
+      Garry the giant_No%Outline-Sheet_4: 4824143744187733341
+      Garry the giant_No%Outline-Sheet_5: -4314049981623121679
+      Garry the giant_No%Outline-Sheet_6: -885278122659740576
+      Garry the giant_No%Outline-Sheet_7: 8220167535260979542
+      Garry the giant_No%Outline-Sheet_8: -4886348468829027222
+      Garry the giant_No%Outline-Sheet_9: 877200056895453760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
