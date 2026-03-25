@@ -135,7 +135,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -163,10 +163,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_0
       rect:
         serializedVersion: 2
-        x: 22
-        y: 321
-        width: 38
-        height: 57
+        x: 0
+        y: 320
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,10 +185,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_1
       rect:
         serializedVersion: 2
-        x: 99
-        y: 321
-        width: 39
-        height: 63
+        x: 80
+        y: 320
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,10 +207,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_2
       rect:
         serializedVersion: 2
-        x: 185
-        y: 322
-        width: 33
-        height: 52
+        x: 160
+        y: 320
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,10 +229,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_3
       rect:
         serializedVersion: 2
-        x: 266
-        y: 322
-        width: 29
-        height: 61
+        x: 240
+        y: 320
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -251,10 +251,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_4
       rect:
         serializedVersion: 2
-        x: 347
-        y: 322
-        width: 28
-        height: 62
+        x: 320
+        y: 320
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,10 +273,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_5
       rect:
         serializedVersion: 2
-        x: 27
-        y: 242
-        width: 28
-        height: 62
+        x: 0
+        y: 240
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -295,10 +295,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_6
       rect:
         serializedVersion: 2
-        x: 90
-        y: 242
-        width: 62
-        height: 67
+        x: 80
+        y: 240
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -317,10 +317,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_7
       rect:
         serializedVersion: 2
-        x: 187
-        y: 242
-        width: 28
-        height: 67
+        x: 160
+        y: 240
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -339,10 +339,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_8
       rect:
         serializedVersion: 2
-        x: 267
-        y: 242
-        width: 28
-        height: 59
+        x: 240
+        y: 240
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -361,10 +361,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_9
       rect:
         serializedVersion: 2
-        x: 348
-        y: 242
-        width: 26
-        height: 66
+        x: 320
+        y: 240
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -383,10 +383,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_10
       rect:
         serializedVersion: 2
-        x: 26
-        y: 162
-        width: 46
-        height: 68
+        x: 0
+        y: 160
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,10 +405,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_11
       rect:
         serializedVersion: 2
-        x: 106
-        y: 162
-        width: 46
-        height: 70
+        x: 80
+        y: 160
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -427,10 +427,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_12
       rect:
         serializedVersion: 2
-        x: 186
-        y: 162
-        width: 46
-        height: 72
+        x: 160
+        y: 160
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -449,10 +449,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_13
       rect:
         serializedVersion: 2
-        x: 260
-        y: 162
-        width: 52
-        height: 77
+        x: 240
+        y: 160
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -471,10 +471,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_14
       rect:
         serializedVersion: 2
-        x: 346
-        y: 162
-        width: 46
-        height: 72
+        x: 320
+        y: 160
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -493,10 +493,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_15
       rect:
         serializedVersion: 2
-        x: 5
-        y: 82
-        width: 57
-        height: 68
+        x: 0
+        y: 80
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -515,10 +515,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_16
       rect:
         serializedVersion: 2
-        x: 85
-        y: 82
-        width: 57
-        height: 68
+        x: 80
+        y: 80
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -537,10 +537,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_17
       rect:
         serializedVersion: 2
-        x: 187
+        x: 160
         y: 80
-        width: 28
-        height: 60
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -559,10 +559,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_18
       rect:
         serializedVersion: 2
-        x: 270
+        x: 240
         y: 80
-        width: 23
-        height: 60
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -581,10 +581,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_19
       rect:
         serializedVersion: 2
-        x: 342
+        x: 320
         y: 80
-        width: 40
-        height: 63
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -603,10 +603,10 @@ TextureImporter:
       name: Garry the giant_No%Outline-Sheet_20
       rect:
         serializedVersion: 2
-        x: 19
-        y: 2
-        width: 42
-        height: 66
+        x: 0
+        y: 0
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -625,7 +625,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d6067a57cc738974aa9d9240642177b3
     internalID: 0
     vertices: []
     indices: 
